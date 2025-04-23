@@ -25,6 +25,12 @@ This Unity project demonstrates a Finite State Machine (FSM) implementation for 
 | Die     | Plays death animation and disables input     |
 
 ---
+## 📦 Playable Demo
+
+You can try the demo here:  
+🔗 [https://pahoed.itch.io/simple-2d-platformer-demo](https://pahoed.itch.io/simple-2d-platformer-demo)
+
+---
 
 ## 🕹 Controls
 
