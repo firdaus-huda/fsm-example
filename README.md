@@ -28,7 +28,7 @@ This Unity project demonstrates a Finite State Machine (FSM) implementation for 
 ## 📦 Playable Demo
 
 You can try the demo here:  
-🔗 [https://pahoed.itch.io/simple-2d-platformer-demo](https://pahoed.itch.io/simple-2d-platformer-demo)
+🔗 [Demo link](https://pahoed.itch.io/simple-2d-platformer-demo)
 
 ---
 
@@ -43,4 +43,4 @@ You can try the demo here:
 ## 🧱 Dependencies
 
 - This project is made using Unity 6 (6000.0.29f1)
-- [Ninja Adventure Sprite Pack](https://www.gameart2d.com/ninja-adventure---free-sprite.html)
+- [Ninja Adventure Sprite Pack](https://www.gameart2d.com/ninja-adventure---free-sprites.html)
